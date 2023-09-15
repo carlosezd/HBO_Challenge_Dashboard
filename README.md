@@ -4,5 +4,5 @@ Proyecto para analizar y crear un dashboard sobre datos de las series y películ
 ## Sobre los datos
 Los datos incluian información como título, género, duración, nro de capitulos, ratios popularidad, etc. 
 
-Además de estos datos se cruzo información adicional como los es el códgio de los paises y las edades para las diferentes categorias de contenido. 
+Además de estos datos se cruzo información adicional como los es el código de los paises y las edades para las diferentes categorias de contenido. 
 
